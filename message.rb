@@ -19,5 +19,5 @@ class Message
       puts "Player 1 WIN!\n======"
     end
   end
-  
+
 end

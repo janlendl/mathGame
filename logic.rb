@@ -32,6 +32,6 @@ class Logic
     puts "Current remaining life: P1: #{l1}/3, P2: #{l2}/3"
     return l1, l2, play
   end
-  
+
 end
 

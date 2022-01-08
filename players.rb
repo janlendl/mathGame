@@ -8,4 +8,5 @@ class Players
   def players
     return @livesOne, @livesTwo, @playing
   end
+  
 end
